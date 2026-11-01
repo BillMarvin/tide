@@ -1,0 +1,16 @@
+# Local server data (accounts, password hashes, sessions, user cycle data)
+data/
+*.json.tmp
+data/tide-server.json
+
+# Logs and temp files
+*.log
+tmp/
+temp/
+.DS_Store
+Thumbs.db
+
+# Editor / OS files
+.vscode/
+.idea/
+*.swp
